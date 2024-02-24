@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/adajahannahs/qr-code-htmlcss-challenge.git]
 - Live Site URL: [https://adajahannahs.github.io/qr-code-htmlcss-challenge/]
 
 ## My process
@@ -45,12 +45,7 @@ I learned how to use flexbox in arranging elements in a column as well as making
 ```
 
 
-
-
-
 ## Author
-
-- Website - [AdajaHannah](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@adajahannahs](https://www.frontendmentor.io/profile/adajahannahs)
 
 
